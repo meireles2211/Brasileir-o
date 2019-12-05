@@ -20,8 +20,15 @@ public class Jogadores {
         Suárez.pé = "direito";
         Suárez.camisa = 9;        
         Suárez.clube = "barcelona";        
-        Suárez.nacionalidade = "Uruguai";       
-                
+        Suárez.nacionalidade = "uruguai";     
+        
+        J1 Arthur = new J1();
+        Arthur.idade = 23;
+        Arthur.altura = 1.71;
+        Arthur.pé = "direito";
+        Arthur.camisa = 8;
+        Arthur.clube = "barcelona";
+        Arthur.nacionalidade = "brasil";       
         
     }
     
