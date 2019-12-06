@@ -1,6 +1,8 @@
 
-package jogadores;
 
+
+package jogadores;
+import java.util.ArrayList;
 
 public class Jogadores {
 
@@ -28,8 +30,9 @@ public class Jogadores {
         Arthur.pé = "direito";
         Arthur.camisa = 8;
         Arthur.clube = "barcelona";
-        Arthur.nacionalidade = "brasil";       
+        Arthur.nacionalidade = "brasil";
         
+       
     }
     
 }
